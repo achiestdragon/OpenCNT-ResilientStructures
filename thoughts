@@ -40,4 +40,5 @@ Challenge Solution: Simulates reactions pre-build via code (e.g., Python for pat
 Theoretical Simulation for Pattern ValidationTo test a helical-bundle pattern on a scaled wing section (1m, under hail ~5 kJ), simplified FEA shows: Deflection 0.04 m (flex response), stress peak 350 MPa (redistributed via spirals), recovery 96% (energy dissipated 45% via damping). Thread distribution (70% in bundles) prevents hotspots, confirming practical viability.
 
 
-
+although it does seem to call for a knitting machine that is addapted to cope with not just a single continious knit but one where the knitting is in multiple layers allowing bundling of fibers knitted into the fabric stiched in
+like say not just knitting one sock  but knitting 3 separate socks at the same time  one placed over the other but at the same time the knitting prosess knitting them together , not imposible but a marked improvment over a single layer knitting process 
