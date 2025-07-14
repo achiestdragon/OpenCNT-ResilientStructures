@@ -11,7 +11,7 @@ Additives: Graphene flakes (for interfacial toughening, ~$50/kg) and aerogel pow
 Tools/Equipment: Desktop 3D knitting machine (e.g., Shima Seiki-inspired DIY rig, $500-1,000) or hand-weaving frame; heat gun/oven for fusion (100-200°C); strain gauges ($10 each) for testing.
 Total Estimated Cost for 1m Prototype: $300-800 (scales down with bulk CNT as production improves).
 
-3. Fabrication Process (Step-by-Step Blueprint)   Use your progressive knitting/fusion method to build continuously, avoiding discrete layers that cause delamination.Step 1: Prepare CNT Yarns (Nano-Scale Alignment):Grow or source MWNTs (~10-50 nm dia.) and twist into helices (pitch 100-500 nm) using a rotary CVD setup or post-spinning torsion (torque ~1-5 N·m). Blend 70% CNT with 30% SMP fibers for memory effect—aim for bundle dia. 1-3 mm.
+3. Fabrication Process (Step-by-Step Blueprint)   a progressive knitting/fusion method to build continuously, avoiding discrete layers that cause delamination.Step 1: Prepare CNT Yarns (Nano-Scale Alignment):Grow or source MWNTs (~10-50 nm dia.) and twist into helices (pitch 100-500 nm) using a rotary CVD setup or post-spinning torsion (torque ~1-5 N·m). Blend 70% CNT with 30% SMP fibers for memory effect—aim for bundle dia. 1-3 mm.
 Tip: If CVD access limited, use commercial twisted yarns and anneal at 150°C for helical set.
 
 Step 2: Knit the Lattice Structure (Macro-Scale Integration):Design a tapered form (e.g., 1m height, base 10 cm dia. narrowing to 5 cm) in CAD (free tools like FreeCAD).
